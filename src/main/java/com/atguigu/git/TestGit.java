@@ -26,6 +26,7 @@ public class TestGit {
         System.out.println("克隆了远程的clone分支准备提交代码");
         System.out.println("测试未pull远程主分支的代码，能否直接提交2");
         System.out.println("测试未pull远程主分支的代码，能否直接提交local");
+        System.out.println("测试未pull远程主分支的代码，能否直接提交3");
         System.out.println("测试未pull远程主分支的代码，能否直接提交local-2");
 
 
