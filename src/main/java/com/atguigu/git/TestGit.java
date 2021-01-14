@@ -17,5 +17,7 @@ public class TestGit {
         System.out.println("hot 分支开发了代码");
         System.out.println("测试远程pull 1");
         System.out.println("测试远程pull 2");
+        System.out.println("测试远程库hot分支合并到主分支");
+        
     }
 }
