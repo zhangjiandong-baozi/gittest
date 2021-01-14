@@ -15,5 +15,7 @@ public class TestGit {
         System.out.println("hello branch");
         System.out.println("hello branch");
         System.out.println("hot 分支开发了代码");
+        System.out.println("测试远程pull 1");
+        System.out.println("测试远程pull 2");
     }
 }
