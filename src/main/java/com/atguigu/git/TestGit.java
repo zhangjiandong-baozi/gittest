@@ -21,5 +21,7 @@ public class TestGit {
         System.out.println("测试远程库hot分支合并到主分支 2");
         System.out.println("从idea中提交代码到远程分支 hot-fix上");
 
+        System.out.println("克隆了远程的clone分支准备提交代码");
+
     }
 }
